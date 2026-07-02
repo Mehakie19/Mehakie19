@@ -1,5 +1,14 @@
 <!-- ==================== TECH STACK ==================== -->
+<div align="center">
 
+# Hi there 👋 I'm Mehak Bhardwaj
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+AI-Engineer;Computer+Science+Undergraduate;Exploring+Data+Science)](https://git.io/typing-svg)
+
+</div>
+
+</div>
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
